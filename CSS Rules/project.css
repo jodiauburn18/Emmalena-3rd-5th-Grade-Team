@@ -1,0 +1,62 @@
+h1{
+	color:forestgreen;
+}
+h2{
+	color:salmon;
+}
+body{
+	background-color:honeydew;
+	font-family:Arial
+	font-size:20px;
+	color:forestgreen;
+	font-weight:400;
+}
+p{
+	color:forestgreen;
+}
+
+ nav {
+            background-color: darksalmon;
+        }
+        nav table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        nav td {
+            width: 20%; 
+            text-align: center;
+            padding: 14px 0; 
+        }
+        nav a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 14px 16px;
+        }
+        nav a:hover {
+            background-color: #111;
+        }
+
+<style>
+table {
+	color:forestgreen;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+	color:forestgreen;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+img{
+	float:left;
+}
+
